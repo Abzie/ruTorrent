@@ -74,7 +74,6 @@ var theUILang =
  Remove_label			: "Remove Label",
  Labels				: "Labels",
  Remove				: "Remove Torrent",
- Delete_data			: "Remove Torrent and Data",
  Details			: "Details...",
  Properties			: "Properties...",
  of				: "of", // this two creates line
